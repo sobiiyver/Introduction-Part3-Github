@@ -1,17 +1,24 @@
+# Equifax Credit Score Inc.
+
 ## **Equifax Vision**
 
 #### Credit score helps the financial institution to measure the credit risk of an individual before lending any loans. It helps the FI to analyse the paying habits of customers such as monthly bill payments, mortgage payments without any overdues. AI supports to cut down the cost via logistic regression
+
+## **About us**
+! [Sobi Pic](./image/Sobi%20Pic.jpg)
+
+- Incorporated in 2000. As a global data, analytics, and technology company, we play an essential role in the economy by helping companies in diverse industries such as automotive, communications, utilities, financial services, fintech, healthcare, insurance, mortgage, professional services, retail, e-commerce, and government agencies, make critical decisions with greater confidence. 
+
    
 ![Equifac logo](./Image/Equifax%20Purpose%20Image.png)
 
+# Business Activities
 
 ## **Major Problems why the Credit Score are declining and remedies**
-
 
 - Making late payment will remain on your Eqiifax credit report for certain years. It is allways recommended to pay your credit card bills ontime before your due dates, everytime.
 - High Utilization credit ratio is another factor to reduce the credit score. Financial instituion generally prefer to see a lower debt to credit ratio between 30% to 45%.
 - Too many inquires while shopping for an auto loan, home loan and inquiring for electronic device. Multiple inquires tipically counted as a single inquiry for a given period of time. Although it may vary depending on the credit risk and model.
-
 
 ## **Difference Between Equifax Credit Score and FICO Score**
 
@@ -50,6 +57,7 @@
 - NeuroDecision is a regulatory-compliant neural network technology for risk decision applications.
 - Use it in predictive models that require reason codes. Equifax also has patents pending using other machine learning techniques.
 
+# Conclusion
 ## **How Better Neuro Decissions actually worked in the field**
 
 - NeuroDecision Technology (NDT) is the first regulatory-compliant machine learning credit scoring system reviewed by regulators and credit scoring experts.
