@@ -5,7 +5,7 @@
 #### Credit score helps the financial institution to measure the credit risk of an individual before lending any loans. It helps the FI to analyse the paying habits of customers such as monthly bill payments, mortgage payments without any overdues. AI supports to cut down the cost via logistic regression
 
 ## **About us**
-! [Sobi Pic](./image/Sobi%20Pic.jpg)
+![Sobi Pic](./image/Sobi%20Pic.jpg)
 
 - Incorporated in 2000. As a global data, analytics, and technology company, we play an essential role in the economy by helping companies in diverse industries such as automotive, communications, utilities, financial services, fintech, healthcare, insurance, mortgage, professional services, retail, e-commerce, and government agencies, make critical decisions with greater confidence. 
 
@@ -34,7 +34,7 @@
 - Understand credit scores, credit worthiness, and how credit scores are used in day-to-day life.
 - Credit scores are based on your credit history and can play a significant role in the type of loan and loan terms, such as interest rate, a lender may offer you.
 
-![Credit score](./image/Neuro%20Decision.png)
+![REgression](./image/Neuro%20Decision.png)
 
 ## **Logistic Regression**
 
